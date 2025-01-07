@@ -1,8 +1,10 @@
 # Simple Gen AI based React chat application using Node JS backend server
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Install node first
+- from https://nodejs.org/en/download
+
 ```Setup
-# Install node from https://nodejs.org/en/download
 npx create-react-app my-app
 cd my-app
 npm start
