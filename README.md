@@ -1,6 +1,17 @@
-# Simple Gen AI based chat application using Open AI model
-
+# Simple Gen AI based React chat application using Node JS backend server
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+```Setup
+# Install node from https://nodejs.org/en/download
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
+# Install following node modules
+- npm install dotenv
+- npm install axios  (Promise-based HTTP client / JS library to make HTTP (async / intercept req/resp / transforms JSON data / can automatically set the XSRF token from cookies, providing built-in support for Cross-Site Request Forgery (CSRF) protection) requests)
+- npm install @testing-library/react@latest
 
 ## Available Scripts
 
